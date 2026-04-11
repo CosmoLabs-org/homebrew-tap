@@ -1,0 +1,13 @@
+{
+  "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+  "project_name": "homebrew-tap",
+  "language": "unknown",
+  "framework": "",
+  "directories": [
+    "Formula"
+  ],
+  "dependencies": null,
+  "has_tests": false,
+  "has_ci": false,
+  "generated_at": "2026-04-10T20:24:35.047399-03:00"
+}

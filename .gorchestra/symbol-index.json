@@ -1,0 +1,15 @@
+{
+  "project_path": "/Users/gab/PROJECTS/homebrew-tap",
+  "version": 1,
+  "hash": "",
+  "files": {
+    "Formula/supermac.rb": {
+      "path": "Formula/supermac.rb",
+      "mod_time": 1775863445,
+      "hash": "",
+      "language": "ruby",
+      "symbols": null
+    }
+  },
+  "updated_at": "2026-04-10T20:24:35.098645-03:00"
+}
